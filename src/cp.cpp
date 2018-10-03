@@ -9,6 +9,9 @@
 #include <stdio.h>
 using namespace std;
 
+/*
+Comment this to make more sense
+*/
 int main(int argc, char* argv[]){
 	bool all = false;
 	bool fastest = false;
